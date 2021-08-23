@@ -1,0 +1,7 @@
+{
+  "Userbase": [
+    { "name": "Punit", "rollno": 1, "marks": 10 },
+    { "name": "Mohit", "rollno": 2, "marks": 8 },
+    { "name": "Ram", "rollno": 3, "marks": 9 }
+  ]
+}
